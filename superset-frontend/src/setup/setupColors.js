@@ -20,8 +20,7 @@ import airbnb from '@superset-ui/color/esm/colorSchemes/categorical/airbnb';
 import categoricalD3 from '@superset-ui/color/esm/colorSchemes/categorical/d3';
 import google from '@superset-ui/color/esm/colorSchemes/categorical/google';
 import lyft from '@superset-ui/color/esm/colorSchemes/categorical/lyft';
-// import sequentialCommon from '@superset-ui/color/esm/colorSchemes/sequential/common';
-import sequentialCommon from '@superset-ui/color/src/colorSchemes/sequential/common';
+import sequentialCommon from '@superset-ui/color/esm/colorSchemes/sequential/common';
 import sequentialD3 from '@superset-ui/color/esm/colorSchemes/sequential/d3';
 import {
   getCategoricalSchemeRegistry,
